@@ -7,7 +7,6 @@ program functionality:
 2) upon rising edge on P8_13, flash LED at 5Hz, 50% duty
 3) upon next rising edge on P8_13, stop flashing LED
 4) repeat until Ctrl C pressed
-Michael Hirsch
 """
 import Adafruit_BBIO.GPIO as gpio
 from time import sleep
