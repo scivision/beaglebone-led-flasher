@@ -9,6 +9,9 @@ program functionality:
 4) repeat until Ctrl C pressed
 prereq:
 sudo pip install --upgrade Adafruit_BBIO
+----
+michael@scivision.co
+GPLv3+ license
 """
 import Adafruit_BBIO.GPIO as gpio
 from time import sleep
